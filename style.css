@@ -17,6 +17,10 @@ body {
   padding: 20px;
 }
 
+#cardd{
+border: 0;
+}
+
 #ft{
   margin: 0%;
   padding-top: 3rem;
@@ -29,7 +33,7 @@ body {
   padding: 50px 20px;
   text-align: center;
   max-width: 100%;
-  width: 800px;
+  width: 700px;
 }
 
 h3 {
@@ -45,24 +49,24 @@ h3 {
 }
 
 .joke {
-  font-size: 30px;
+  font-size: 1.5rem;
   letter-spacing: 1px;
   line-height: 40px;
   margin: 50px auto;
-  max-width: 600px;
+  max-width: 70%;
 }
 
 @media screen and (max-width: 450px) {
   .joke {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     letter-spacing: 1px;
-    line-height: 40px;
+    line-height: 1.5;
     margin: 50px auto;
     max-width: 600px;
   }
   }
 
-.btn {
+.btnn {
   background-color: #9f68e0;
   color: #fff;
   border: 0;
